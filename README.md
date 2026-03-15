@@ -1,5 +1,6 @@
-# Google-Summer-of-Code
+# Google-Summer-of-Code (UNFINISHED)
 Google Summer of Code 2024 (Unfinished)
+
 Project Title: Enhancing Automated Web Scraping and Analysis Tool with Python
 
 Project Abstract
